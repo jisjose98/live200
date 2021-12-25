@@ -5,10 +5,10 @@ apt-get install subfinder -y
 apt-get install httprobe -y
 
 <div align="center">
-    <img src="/s1.png" width="400px"</img> 
+    <img src="/2021-12-25 20_56_02-Parrot Security (snapshot bk) [Running] - Oracle VM VirtualBox.png" width="400px"</img> 
 </div>
 <div align="center">
-    <img src="s2.png" width="400px"</img> 
+    <img src="/2021-12-25 20_56_56-Parrot Security (snapshot bk) [Running] - Oracle VM VirtualBox.png" width="400px"</img> 
 </div>
 
 
