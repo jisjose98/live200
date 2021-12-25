@@ -7,13 +7,10 @@ echo -e \n"
  ██   ██║██║╚════██║╚════██║    ╚════██║██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗
  ╚█████╔╝██║███████║███████║    ███████║╚██████╔╝██████╔╝███████╗██║ ╚████║╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║
   ╚═══╝ ╚═╝╚══════╝╚══════╝    ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝"
- 																		echo "Credits:Jiss Jose"
-}
+ 											echo "Credits:Jiss Jose"
 
-echo "The subdomain finder and sorts alive and removes dupes.Run by typing 
 
-git clone https://github.com/jisjose98/live200*
-sudo bash live200.sh
+echo -e "The subdomain finder and sorts alive and removes dupes.Run by typing \ngit clone https://github.com/jisjose98/live200* \nsudo bash live200.sh"
 
 
 #begins
