@@ -7,17 +7,21 @@ echo -e \n"
  ██   ██║██║╚════██║╚════██║    ╚════██║██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗
  ╚█████╔╝██║███████║███████║    ███████║╚██████╔╝██████╔╝███████╗██║ ╚████║╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║
   ╚═══╝ ╚═╝╚══════╝╚══════╝    ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝"
- 											echo "Credits:Jiss Jose"
+ 																		echo "Credits:Jiss Jose"
 
 
-echo -e "The subdomain finder and sorts alive and removes dupes.Run by typing \ngit clone https://github.com/jisjose98/live200* \nsudo bash live200.sh"
+echo -e "The subdomain finder and sorts alive and removes dupes.Run by typing \ngit clone https://github.com/jisjose98/live200* \nsudo bash live200.sh\n \n"
 
 
 #begins
 
-echo "live domain filterer"
-echo "Enter domain name"
+echo "Live subdomain filterer"
+echo -e "Enter domain name"
 read dom
+
+
+
+echo "\n"
 echo -e "\n"
 subfinder -silent -d $dom -o subs.txt
 
