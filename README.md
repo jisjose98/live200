@@ -14,22 +14,9 @@ This tool checks for subdomains with help of subfinder and checks alive among th
 #Installing;<br>
 <code>
 apt-get install subfinder -y;
- </code>   
-    
-    
-    
-    <div align="center">
-    <code>
-apt-get install httprobe -y;<br></code></n>
-        <code>
-    
-    <div align="center">
-git clone https://github.com/jisjose98/live200*;<br></n>
-            </code>
-  <code>
-    cd live200*;<br></code>
-                <code>
-chmod +x live200*;<br></code>
-                    <code>
-sudo bash live200.sh<br>
-</code>
+apt-get install httprobe -y;
+git clone https://github.com/jisjose98/live200*;
+cd live200*;
+chmod +x live200*;
+sudo bash live200.sh
+ </code> 
