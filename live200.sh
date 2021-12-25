@@ -16,7 +16,7 @@ echo -e "The subdomain finder and sorts alive and removes dupes.Run by typing \n
 #begins
 
 echo "Live subdomain filterer"
-echo -e "Enter domain name"
+echo -e "Enter domain name::\n"
 read dom
 
 
