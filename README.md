@@ -13,7 +13,7 @@ apt-get install httprobe -y
 
 
 
-git clone https://github.com/jisjose98/live200*
-cd live200*
-chmod +x live200*
-sudo bash live200.sh
+git clone https://github.com/jisjose98/live200*;<br>
+cd live200*;<br>
+chmod +x live200*;<br>
+sudo bash live200.sh<br>
