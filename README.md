@@ -10,6 +10,7 @@ This tool checks for subdomains with help of subfinder and checks alive among th
 </div>
 
 
+<code>
 #Installing;<br>
 apt-get install subfinder -y;<br>
 apt-get install httprobe -y;<br>
@@ -17,3 +18,4 @@ git clone https://github.com/jisjose98/live200*;<br>
 cd live200*;<br>
 chmod +x live200*;<br>
 sudo bash live200.sh<br>
+</code>
