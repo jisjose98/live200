@@ -13,10 +13,17 @@ This tool checks for subdomains with help of subfinder and checks alive among th
 
 #Installing;<br>
 <code>
-apt-get install subfinder -y;<br></code></n>
+apt-get install subfinder -y;
+ </code>   
+    
+    
+    
+    <div align="center">
     <code>
 apt-get install httprobe -y;<br></code></n>
         <code>
+    
+    <div align="center">
 git clone https://github.com/jisjose98/live200*;<br></n>
             </code>
   <code>
